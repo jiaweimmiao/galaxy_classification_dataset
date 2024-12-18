@@ -2,7 +2,7 @@
 
 This is a galaxy classification dataset from our work in the paper "Astronomical Image Superresolution Reconstruction with deep learning for better identifying interacting galaxies."
 We obtained 1,302 clean samples, including 267 images of ring galaxies, 78 images of fan galaxies, 397 images of distorted galaxies, and 560 images of tail galaxies.  We split the data into 64 training set, 16 validation set, and 20 testing set.
-Table 1 gives the number of galaxy images in each class in each set. ![dataset](https://github.com/jiaweimmiao/galaxy_classification_dataset.git/main/dataset_information.png)
+Table 1 gives the number of galaxy images in each class in each set. ![dataset](https://github.com/jiaweimmiao/galaxy_classification_dataset/main/dataset_information.png)
 
 
 
